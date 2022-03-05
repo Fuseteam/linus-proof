@@ -1,6 +1,6 @@
-#Linus-proof your install instructions, add a nice green download button
+# Linus-proof your install instructions, add a nice green download button
 
-##How to use
+## How to use
 1. add one the following to your Readme:
 ```
 [![download](https://github.com/Fuseteam/linus-proof/blob/main/images/download.jpg)](https://github.com/Fuseteam/linus-proof/archive/refs/heads/main.zip)
