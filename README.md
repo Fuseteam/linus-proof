@@ -21,6 +21,6 @@ result
 
 You can use both .jpg and .png formats in both cases.
 
-2. make sure you replace the part between the last pair of `()` with your ow download link
+2. make sure you replace the part between the last pair of `()` with your own download link
 3. ???
 4. profit
