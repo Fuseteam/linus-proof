@@ -17,7 +17,9 @@ for single files in the repository(save file as material):
 ```
 result
 
-[![download](https://github.com/Fuseteam/linus-proof/blob/main/images/download.jpg)](https://raw.githubusercontent.com/Fuseteam/linus-proof/main/README.md)
+[![download](https://github.com/Fuseteam/linus-proof/blob/main/images/download.png)](https://raw.githubusercontent.com/Fuseteam/linus-proof/main/README.md)
+
+You can use both .jpg and .png formats in both cases.
 
 2. make sure you replace the part between the last pair of `()` with your ow download link
 3. ???
