@@ -1,4 +1,4 @@
-# Linus-proof your install instructions, add a nice green download button
+# [Linus-proof](https://www.youtube.com/watch?v=MreyOrYItr4) your install instructions, add a nice green download button
 
 ## How to use
 1. add one the following to your Readme:
