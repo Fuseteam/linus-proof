@@ -2,6 +2,7 @@
 
 ## How to use
 1. add one the following to your Readme:
+
 for direct download links
 ```
 [![download](https://github.com/Fuseteam/linus-proof/blob/main/images/download.jpg)](https://github.com/Fuseteam/linus-proof/archive/refs/heads/main.zip)
