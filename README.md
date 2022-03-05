@@ -13,7 +13,7 @@ result:
 
 for single files in the repository(save file as material):
 ```
-[![download](https://github.com/Fuseteam/linus-proof/blob/main/images/download.jpg)](https://raw.githubusercontent.com/Fuseteam/linus-proof/main/README.md)
+[![download](https://github.com/Fuseteam/linus-proof/blob/main/images/download.png)](https://raw.githubusercontent.com/Fuseteam/linus-proof/main/README.md)
 ```
 result
 
